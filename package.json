@@ -29,8 +29,7 @@
     "gc-stats": "github:joshua-bell-sonrai/node-gcstats"
   },
   "dependencies": {
-    "optional": "^0.1.3",
-    "prometheus-gc-stats": "github:joshua-bell-sonrai/node-prometheus-gc-stats"
+    "optional": "^0.1.3"
   },
   "peerDependencies": {
     "prom-client": ">= 10 <= 12"

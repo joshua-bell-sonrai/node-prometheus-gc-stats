@@ -3473,20 +3473,12 @@
   "resolved" "https://registry.npmjs.org/progress/-/progress-2.0.3.tgz"
   "version" "2.0.3"
 
-"prom-client@^12.0.0", "prom-client@>= 10 <= 12":
+"prom-client@^12.0.0":
   "integrity" "sha512-JbzzHnw0VDwCvoqf8y1WDtq4wSBAbthMB1pcVI/0lzdqHGJI3KBJDXle70XK+c7Iv93Gihqo0a5LlOn+g8+DrQ=="
   "resolved" "https://registry.npmjs.org/prom-client/-/prom-client-12.0.0.tgz"
   "version" "12.0.0"
   dependencies:
     "tdigest" "^0.1.1"
-
-"prometheus-gc-stats@github:joshua-bell-sonrai/node-prometheus-gc-stats":
-  "resolved" "git+ssh://git@github.com/joshua-bell-sonrai/node-prometheus-gc-stats.git#2082fca884dd2e21a8287f454629e8fa8a16c963"
-  "version" "0.6.4"
-  dependencies:
-    "optional" "^0.1.3"
-  optionalDependencies:
-    "gc-stats" "github:joshua-bell-sonrai/node-gcstats"
 
 "prompts@^2.0.1":
   "integrity" "sha512-NxNv/kLguCA7p3jE8oL2aEBsrJWgAakBpgmgK6lpPWV+WuOmY6r2/zbAVnP+T8bQlA0nzHXSJSJW0Hq7ylaD2Q=="
